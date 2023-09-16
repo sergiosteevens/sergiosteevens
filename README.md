@@ -1,5 +1,5 @@
 ### Hello World! 👋
-#### A Junior Backend Developer by day ☼ and a Competitive programmer by night ☾
+#### A Junior Backend Developer by day ☼ and a Competitive Programmer Beginner by night ☾
 <!--
 **sergiosteevens/sergiosteevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
