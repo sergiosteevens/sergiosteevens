@@ -12,3 +12,8 @@
 <img width="750"  alt="color picker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
  <a href="https://www.linkedin.com/in/sergio-antonio-steevens-arciniegas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
+
+ ### My Github Stats
+
+ [![Top Langs Github stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosteevens&layout=donut&theme=radical&bg&title_color=fff&text_color=fff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Github stats-light](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosteevens&layout=donut&bg_color=30,ff5f6d,ffc371&title_color=fff&text_color=fff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
