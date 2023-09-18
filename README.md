@@ -9,7 +9,7 @@
 
 <!--![theme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)--> 
 
-<img width="750"  alt="color picker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="750"  alt="color picker" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 
 
  <a href="https://www.linkedin.com/in/sergio-antonio-steevens-arciniegas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -22,7 +22,7 @@
 [![Top Langs Github stats-light](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosteevens&layout=donut&bg_color=30,ff5f6d,ffc371&title_color=fff&text_color=fff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-## Frameworks and libraries that i use
+<p align='center>Frameworks and libraries that i use</p>
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
