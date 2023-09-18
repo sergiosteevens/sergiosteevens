@@ -22,9 +22,11 @@
 [![Top Langs Github stats-light](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosteevens&layout=donut&bg_color=30,ff5f6d,ffc371&title_color=fff&text_color=fff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-<p align='center>Frameworks and libraries that i use</p>
+<h1 align='center'>Frameworks and libraries that i use</h1>
 
+<center>
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+</center>
