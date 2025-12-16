@@ -7,6 +7,8 @@
 <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>-->
 
+<p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>-->
+
 <!--![theme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)--> 
 
 <img width="750"  alt="color picker" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
