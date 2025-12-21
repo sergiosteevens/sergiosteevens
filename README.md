@@ -20,6 +20,7 @@
 - LLM concepts
 - Embeddings
 - Vector Store databases
+- Transformer
 
 
 
