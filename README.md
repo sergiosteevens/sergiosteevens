@@ -1,5 +1,5 @@
 ### Hello World! 👋
-#### A Backend Developer by day ☼ and a Competitive Programmer Beginner by night ☾
+#### A Backend Developer and Developing projects
 <!--
 **sergiosteevens/sergiosteevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
