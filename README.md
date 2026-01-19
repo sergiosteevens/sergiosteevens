@@ -12,7 +12,7 @@
 
 <!--![theme]()--> 
 
-<img width="750"  alt="color picker" align="center" src="" />
+<img width="750"  alt="" align="center" src="" />
 <!--###  🌱 I’m currently Learning:-->
 
 
