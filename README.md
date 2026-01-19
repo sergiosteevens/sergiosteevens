@@ -10,9 +10,9 @@
 
 
 
-<!--![theme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)--> 
+<!--![theme]()--> 
 
-<img width="750"  alt="color picker" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNwczJsbDl1cXdodHcxbGpmMWhieHVmYnN0bDZjcjVkYWUzYTA0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="750"  alt="color picker" align="center" src="" />
 <!--###  🌱 I’m currently Learning:-->
 
 
