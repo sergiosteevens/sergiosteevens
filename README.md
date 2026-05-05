@@ -56,7 +56,7 @@
 
 
 están en desarrollo:
-## 📊 Probability Distributions (CAL, ALG, PRO, STA)(Work in Progress)...
+## 📊 Data Analysis (CAL, ALG, PRO, STA)(Work in Progress)...
 | Distribución | Uso común | Proyecto ejemplo |
 |--------------|-----------|------------------|
 | Binomial     | Conversión de clientes | [Repositorio](link) |
