@@ -56,7 +56,7 @@
 
 
 están en desarrollo:
-## 📊 Data Analysis (CAL, ALG, PRO, STA)(Work in Progress)...
+## 📊 Data Analysis / Data Science (CAL, ALG, PRO, STA)(Work in Progress)...
 | Distribución | Uso común | Proyecto ejemplo |
 |--------------|-----------|------------------|
 | Binomial     | Conversión de clientes | [Repositorio](link) |
